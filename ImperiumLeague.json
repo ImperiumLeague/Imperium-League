@@ -1,6 +1,6 @@
 {
-	"Name": "Imperium League",
-	"Version": 1794316995,
+	"Name": "",
+	"Version": 1794386801,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -551,6 +551,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"38",
+				"269",
 				"80",
 				"121",
 				"127"
@@ -567,8 +568,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10,
-				24
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
