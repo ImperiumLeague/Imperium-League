@@ -1,6 +1,6 @@
 {
 	"Name": "Imperium League",
-	"Version": 1794386928,
+	"Version": 1794636921,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -688,9 +688,7 @@
 				2,
 				5
 			],
-			"KillerOfferings": [
-				5
-			]
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Shape",
@@ -1309,9 +1307,7 @@
 				2,
 				5
 			],
-			"KillerOfferings": [
-				5
-			]
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Legion",
@@ -1875,9 +1871,7 @@
 				2,
 				5
 			],
-			"KillerOfferings": [
-				5
-			]
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Twins",
@@ -2914,9 +2908,7 @@
 				2,
 				5
 			],
-			"KillerOfferings": [
-				5
-			]
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Houndmaster",
@@ -3292,9 +3284,7 @@
 				2,
 				5
 			],
-			"KillerOfferings": [
-				5
-			]
+			"KillerOfferings": []
 		},
 		{
 			"Name": "The Judgment",
